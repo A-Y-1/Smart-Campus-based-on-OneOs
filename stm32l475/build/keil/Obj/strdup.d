@@ -1,0 +1,12 @@
+.\build\keil\obj\strdup.o: ..\..\libc\source\armlibc\strdup.c
+.\build\keil\obj\strdup.o: ..\..\libc\include\extension/string_ext.h
+.\build\keil\obj\strdup.o: ..\..\libc\include\armlibc\sys/types.h
+.\build\keil\obj\strdup.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\keil\obj\strdup.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\strdup.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\strdup.o: .\oneos_config.h
+.\build\keil\obj\strdup.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\strdup.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\string.h
+.\build\keil\obj\strdup.o: ..\..\kernel\include\os_memory.h
+.\build\keil\obj\strdup.o: ..\..\kernel\include\os_sem.h
+.\build\keil\obj\strdup.o: ..\..\kernel\include\os_list.h

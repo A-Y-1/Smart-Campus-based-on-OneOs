@@ -1,0 +1,15 @@
+.\build\keil\obj\watchdog.o: ..\..\drivers\watchdog\watchdog.c
+.\build\keil\obj\watchdog.o: ..\..\drivers\watchdog/watchdog.h
+.\build\keil\obj\watchdog.o: ..\..\kernel\include\os_assert.h
+.\build\keil\obj\watchdog.o: .\oneos_config.h
+.\build\keil\obj\watchdog.o: ..\..\kernel\include\os_util.h
+.\build\keil\obj\watchdog.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\watchdog.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\watchdog.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\watchdog.o: ..\..\kernel\include\os_safety.h
+.\build\keil\obj\watchdog.o: ..\..\arch\arm\armv7m\include\arch_interrupt.h
+.\build\keil\obj\watchdog.o: ..\..\kernel\include\os_errno.h
+.\build\keil\obj\watchdog.o: ..\..\drivers\device.h
+.\build\keil\obj\watchdog.o: ..\..\kernel\include\os_list.h
+.\build\keil\obj\watchdog.o: ..\..\kernel\include\os_sem.h
+.\build\keil\obj\watchdog.o: ..\..\drivers\plug.h

@@ -1,0 +1,16 @@
+.\build\keil\obj\unicode.o: ..\..\components\fs\source\fatfs\unicode.c
+.\build\keil\obj\unicode.o: .\oneos_config.h
+.\build\keil\obj\unicode.o: ..\..\components\fs\source\fatfs\ff.h
+.\build\keil\obj\unicode.o: ..\..\components\fs\source\fatfs\integer.h
+.\build\keil\obj\unicode.o: ..\..\components\fs\source\fatfs\ffconf.h
+.\build\keil\obj\unicode.o: ..\..\kernel\include\os_mutex.h
+.\build\keil\obj\unicode.o: ..\..\kernel\include\os_errno.h
+.\build\keil\obj\unicode.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\unicode.o: ..\..\kernel\include\os_list.h
+.\build\keil\obj\unicode.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\unicode.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\unicode.o: ..\..\kernel\include\os_task.h
+.\build\keil\obj\unicode.o: ..\..\arch\arm\armv7m\include\arch_interrupt.h
+.\build\keil\obj\unicode.o: ..\..\arch\arm\armv7m\include\arch_task.h
+.\build\keil\obj\unicode.o: ..\..\kernel\include\os_spinlock.h
+.\build\keil\obj\unicode.o: ..\..\kernel\include\os_util.h
