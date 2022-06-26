@@ -1,0 +1,16 @@
+.\build\keil\obj\pwm.o: ..\..\drivers\misc\pwm.c
+.\build\keil\obj\pwm.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\string.h
+.\build\keil\obj\pwm.o: ..\..\drivers\misc/pwm.h
+.\build\keil\obj\pwm.o: ..\..\kernel\include\os_assert.h
+.\build\keil\obj\pwm.o: .\oneos_config.h
+.\build\keil\obj\pwm.o: ..\..\kernel\include\os_util.h
+.\build\keil\obj\pwm.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\pwm.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\pwm.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\pwm.o: ..\..\kernel\include\os_safety.h
+.\build\keil\obj\pwm.o: ..\..\arch\arm\armv7m\include\arch_interrupt.h
+.\build\keil\obj\pwm.o: ..\..\kernel\include\os_errno.h
+.\build\keil\obj\pwm.o: ..\..\drivers\device.h
+.\build\keil\obj\pwm.o: ..\..\kernel\include\os_list.h
+.\build\keil\obj\pwm.o: ..\..\kernel\include\os_sem.h
+.\build\keil\obj\pwm.o: ..\..\drivers\plug.h

@@ -1,0 +1,9 @@
+.\build\keil\obj\os_version.o: ..\..\kernel\source\os_version.c
+.\build\keil\obj\os_version.o: .\oneos_config.h
+.\build\keil\obj\os_version.o: ..\..\kernel\include\os_version.h
+.\build\keil\obj\os_version.o: ..\..\kernel\include\os_errno.h
+.\build\keil\obj\os_version.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\os_version.o: ..\..\kernel\include\os_util.h
+.\build\keil\obj\os_version.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\os_version.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\os_version.o: ..\..\components\shell\include\shell.h

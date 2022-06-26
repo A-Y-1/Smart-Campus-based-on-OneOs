@@ -1,0 +1,13 @@
+.\build\keil\obj\os_spinlock.o: ..\..\kernel\source\os_spinlock.c
+.\build\keil\obj\os_spinlock.o: .\oneos_config.h
+.\build\keil\obj\os_spinlock.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\os_spinlock.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\os_spinlock.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\os_spinlock.o: ..\..\kernel\include\os_task.h
+.\build\keil\obj\os_spinlock.o: ..\..\kernel\include\os_list.h
+.\build\keil\obj\os_spinlock.o: ..\..\arch\arm\armv7m\include\arch_interrupt.h
+.\build\keil\obj\os_spinlock.o: ..\..\arch\arm\armv7m\include\arch_task.h
+.\build\keil\obj\os_spinlock.o: ..\..\kernel\include\os_spinlock.h
+.\build\keil\obj\os_spinlock.o: ..\..\kernel\include\os_util.h
+.\build\keil\obj\os_spinlock.o: ..\..\kernel\include\os_assert.h
+.\build\keil\obj\os_spinlock.o: ..\..\kernel\include\os_safety.h
