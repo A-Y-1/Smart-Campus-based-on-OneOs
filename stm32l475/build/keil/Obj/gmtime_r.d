@@ -1,0 +1,9 @@
+.\build\keil\obj\gmtime_r.o: ..\..\libc\source\common\gmtime_r.c
+.\build\keil\obj\gmtime_r.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\gmtime_r.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\gmtime_r.o: .\oneos_config.h
+.\build\keil\obj\gmtime_r.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\gmtime_r.o: ..\..\libc\include\armlibc\sys/time.h
+.\build\keil\obj\gmtime_r.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\time.h
+.\build\keil\obj\gmtime_r.o: ..\..\libc\include\armlibc\sys/types.h
+.\build\keil\obj\gmtime_r.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdint.h

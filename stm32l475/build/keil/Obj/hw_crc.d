@@ -1,0 +1,17 @@
+.\build\keil\obj\hw_crc.o: ..\..\drivers\hwcrypto\hw_crc.c
+.\build\keil\obj\hw_crc.o: ..\..\kernel\include\os_task.h
+.\build\keil\obj\hw_crc.o: .\oneos_config.h
+.\build\keil\obj\hw_crc.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\hw_crc.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\hw_crc.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\hw_crc.o: ..\..\kernel\include\os_list.h
+.\build\keil\obj\hw_crc.o: ..\..\arch\arm\armv7m\include\arch_interrupt.h
+.\build\keil\obj\hw_crc.o: ..\..\arch\arm\armv7m\include\arch_task.h
+.\build\keil\obj\hw_crc.o: ..\..\kernel\include\os_spinlock.h
+.\build\keil\obj\hw_crc.o: ..\..\kernel\include\os_util.h
+.\build\keil\obj\hw_crc.o: ..\..\drivers\device.h
+.\build\keil\obj\hw_crc.o: ..\..\kernel\include\os_sem.h
+.\build\keil\obj\hw_crc.o: ..\..\kernel\include\os_errno.h
+.\build\keil\obj\hw_crc.o: ..\..\drivers\plug.h
+.\build\keil\obj\hw_crc.o: ..\..\drivers\hwcrypto/hw_crc.h
+.\build\keil\obj\hw_crc.o: ..\..\drivers\hwcrypto/hwcrypto.h
