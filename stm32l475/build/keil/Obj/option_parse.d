@@ -1,0 +1,11 @@
+.\build\keil\obj\option_parse.o: ..\..\common\source\option_parse.c
+.\build\keil\obj\option_parse.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\option_parse.o: .\oneos_config.h
+.\build\keil\obj\option_parse.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\option_parse.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\option_parse.o: ..\..\kernel\include\os_assert.h
+.\build\keil\obj\option_parse.o: ..\..\kernel\include\os_util.h
+.\build\keil\obj\option_parse.o: ..\..\kernel\include\os_safety.h
+.\build\keil\obj\option_parse.o: ..\..\arch\arm\armv7m\include\arch_interrupt.h
+.\build\keil\obj\option_parse.o: ..\..\common\include\option_parse.h
+.\build\keil\obj\option_parse.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\string.h

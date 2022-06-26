@@ -1,0 +1,11 @@
+.\build\keil\obj\mo_lib.o: ..\..\components\net\molink\core\source\mo_lib.c
+.\build\keil\obj\mo_lib.o: ..\..\components\net\molink\core\include\mo_lib.h
+.\build\keil\obj\mo_lib.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\mo_lib.o: .\oneos_config.h
+.\build\keil\obj\mo_lib.o: ..\..\kernel\include\os_assert.h
+.\build\keil\obj\mo_lib.o: ..\..\kernel\include\os_util.h
+.\build\keil\obj\mo_lib.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\mo_lib.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\mo_lib.o: ..\..\kernel\include\os_safety.h
+.\build\keil\obj\mo_lib.o: ..\..\arch\arm\armv7m\include\arch_interrupt.h
+.\build\keil\obj\mo_lib.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\ctype.h

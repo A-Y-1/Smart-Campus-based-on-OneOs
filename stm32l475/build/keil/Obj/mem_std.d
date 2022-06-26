@@ -1,0 +1,10 @@
+.\build\keil\obj\mem_std.o: ..\..\libc\source\armlibc\mem_std.c
+.\build\keil\obj\mem_std.o: .\oneos_config.h
+.\build\keil\obj\mem_std.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\mem_std.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\mem_std.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\mem_std.o: ..\..\libc\include\armlibc\sys/types.h
+.\build\keil\obj\mem_std.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\keil\obj\mem_std.o: ..\..\kernel\include\os_memory.h
+.\build\keil\obj\mem_std.o: ..\..\kernel\include\os_sem.h
+.\build\keil\obj\mem_std.o: ..\..\kernel\include\os_list.h
