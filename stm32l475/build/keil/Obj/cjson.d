@@ -1,0 +1,9 @@
+.\build\keil\obj\cjson.o: ..\..\components\cJSON-v1.7.12\cJSON.c
+.\build\keil\obj\cjson.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\string.h
+.\build\keil\obj\cjson.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdio.h
+.\build\keil\obj\cjson.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\math.h
+.\build\keil\obj\cjson.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\keil\obj\cjson.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\limits.h
+.\build\keil\obj\cjson.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\keil\obj\cjson.o: ..\..\components\cJSON-v1.7.12\cJSON.h
+.\build\keil\obj\cjson.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stddef.h

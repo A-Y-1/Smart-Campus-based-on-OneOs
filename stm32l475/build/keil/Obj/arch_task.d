@@ -1,0 +1,14 @@
+.\build\keil\obj\arch_task.o: ..\..\arch\arm\armv7m\arch_task.c
+.\build\keil\obj\arch_task.o: ..\..\kernel\include\os_types.h
+.\build\keil\obj\arch_task.o: .\oneos_config.h
+.\build\keil\obj\arch_task.o: ..\..\kernel\include\os_task.h
+.\build\keil\obj\arch_task.o: ..\..\kernel\include\os_stddef.h
+.\build\keil\obj\arch_task.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\keil\obj\arch_task.o: ..\..\kernel\include\os_list.h
+.\build\keil\obj\arch_task.o: ..\..\arch\arm\armv7m\include\arch_interrupt.h
+.\build\keil\obj\arch_task.o: ..\..\arch\arm\armv7m\include\arch_task.h
+.\build\keil\obj\arch_task.o: ..\..\kernel\include\os_spinlock.h
+.\build\keil\obj\arch_task.o: ..\..\kernel\include\os_util.h
+.\build\keil\obj\arch_task.o: D:\LenovoSoftstore\Install\KEIL\ARM\ARMCC\Bin\..\include\string.h
+.\build\keil\obj\arch_task.o: ..\..\kernel\include\os_assert.h
+.\build\keil\obj\arch_task.o: ..\..\kernel\include\os_safety.h
